@@ -58,10 +58,8 @@ GO-GREEN/
 
 | Home Page | Portfolio | Contact |
 |----------|-----------|---------|
-| ![Home](![Screenshot (425)](https://github.com/user-attachments/assets/adaf139a-67e4-4c6e-acec-ab749b794dfa)) | ![Portfolio](img/![Screenshot (426)](https://github.com/user-attachments/assets/e366350c-1734-4be7-9cc0-90594b8bac52)) | 
-![Screenshot (427)](https://github.com/user-attachments/assets/796a71ee-863f-4c2a-b955-f02b9234237b)
-![Screenshot (428)](https://github.com/user-attachments/assets/533dacdc-f1ff-4cd0-ac4b-f58265f6c906)
-![Screenshot (429)](https://github.com/user-attachments/assets/953e3b2c-7f0f-4abe-885e-4274196adbd6)
+| ![Home](![Screenshot (425)](https://github.com/user-attachments/assets/adaf139a-67e4-4c6e-acec-ab749b794dfa)) | ![Portfolio](img/![Screenshot (426)](https://github.com/user-attachments/assets/e366350c-1734-4be7-9cc0-90594b8bac52)) | ![image](https://github.com/user-attachments/assets/8b179f94-9713-4a5f-9aec-da63848a01c5) |
+
 ## 📦 How to Use
 
 1. **Clone the repository**
