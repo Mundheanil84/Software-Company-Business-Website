@@ -1,4 +1,4 @@
-# 🌿 GO GREEN - HTML Business Template
+# 🌿 GO GREEN - HTML Business Template/Website
 
 A responsive and modern HTML5 business website template built using Bootstrap 4. The template is ideal for eco-friendly companies, sustainability initiatives, or any business looking for a clean, professional online presence.
 
