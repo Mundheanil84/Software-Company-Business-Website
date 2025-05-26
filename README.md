@@ -2,12 +2,6 @@
 
 A responsive and modern HTML5 business website template built using Bootstrap 4. The template is ideal for eco-friendly companies, sustainability initiatives, or any business looking for a clean, professional online presence.
 
-![Screenshot (425)](https://github.com/user-attachments/assets/adaf139a-67e4-4c6e-acec-ab749b794dfa)
-![Screenshot (426)](https://github.com/user-attachments/assets/e366350c-1734-4be7-9cc0-90594b8bac52)
-![Screenshot (427)](https://github.com/user-attachments/assets/796a71ee-863f-4c2a-b955-f02b9234237b)
-![Screenshot (428)](https://github.com/user-attachments/assets/533dacdc-f1ff-4cd0-ac4b-f58265f6c906)
-![Screenshot (429)](https://github.com/user-attachments/assets/953e3b2c-7f0f-4abe-885e-4274196adbd6)
-
 ## 🚀 Features
 
 - Responsive design with **Bootstrap 4**
@@ -64,8 +58,10 @@ GO-GREEN/
 
 | Home Page | Portfolio | Contact |
 |----------|-----------|---------|
-| ![Home](img/slider-1.jpg) | ![Portfolio](img/portfolio-2.jpg) | ![Contact](img/about.jpg) |
-
+| ![Home](![Screenshot (425)](https://github.com/user-attachments/assets/adaf139a-67e4-4c6e-acec-ab749b794dfa)) | ![Portfolio](img/![Screenshot (426)](https://github.com/user-attachments/assets/e366350c-1734-4be7-9cc0-90594b8bac52)) | 
+![Screenshot (427)](https://github.com/user-attachments/assets/796a71ee-863f-4c2a-b955-f02b9234237b)
+![Screenshot (428)](https://github.com/user-attachments/assets/533dacdc-f1ff-4cd0-ac4b-f58265f6c906)
+![Screenshot (429)](https://github.com/user-attachments/assets/953e3b2c-7f0f-4abe-885e-4274196adbd6)
 ## 📦 How to Use
 
 1. **Clone the repository**
@@ -89,17 +85,7 @@ GO-GREEN/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ### 💚 Designed for businesses that care about the planet. Go Green!
 
-```
-
----
-
-Let me know if you'd like a version with deployment steps or hosting instructions (like for GitHub Pages or Netlify).
-```
